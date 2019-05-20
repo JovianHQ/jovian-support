@@ -1,6 +1,6 @@
 # Jovian
 
-Jovian is a platform for sharing and collaborating on Jupyter notebooks. You can learn more on https://www.jvn.io . This repository serves as a public roadmap and bug tracker for Jovian. Visit the issues to page to report bugs, propose new features and discuss existing ones: https://github.com/swiftace-ai/jovian-support/issues. 
+Jovian is a platform for sharing and collaborating on Jupyter notebooks. You can learn more on https://www.jvn.io . This repository serves as a public roadmap and bug tracker for Jovian. Visit the issues to page to report bugs, propose new features and discuss existing ones: https://github.com/jvn-io/jovian-support/issues. 
 
 # Getting started with Jovian
 
